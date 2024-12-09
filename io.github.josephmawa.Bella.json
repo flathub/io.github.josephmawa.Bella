@@ -47,8 +47,8 @@
         {
           "type": "git",
           "url": "https://github.com/josephmawa/Bella",
-          "tag": "v0.1.1",
-          "commit": "216a48ea333d5d212936c196ac91a7012ea47371"
+          "tag": "v0.1.2",
+          "commit": "720f0ea67da3343adb743e5c38deedbc8eede315"
         }
       ]
     }
