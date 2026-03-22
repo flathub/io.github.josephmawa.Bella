@@ -1,7 +1,7 @@
 {
   "app-id": "io.github.josephmawa.Bella",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "48",
+  "runtime-version": "50",
   "sdk": "org.gnome.Sdk",
   "command": "io.github.josephmawa.Bella",
   "finish-args": [
@@ -13,13 +13,7 @@
   "cleanup": [
     "/include",
     "/lib/pkgconfig",
-    "/man",
-    "/share/doc",
-    "/share/gtk-doc",
-    "/share/man",
-    "/share/pkgconfig",
-    "*.la",
-    "*.a"
+    "/share/gir-1.0"
   ],
   "modules": [
     {
@@ -47,8 +41,8 @@
         {
           "type": "git",
           "url": "https://github.com/josephmawa/Bella",
-          "tag": "v0.1.7",
-          "commit": "fb821c71608747dde25f162ffb6a4ac89a990b5a"
+          "tag": "v0.1.8",
+          "commit": "4df18dea83be818e58708d78ed80b60038b67637"
         }
       ]
     }
