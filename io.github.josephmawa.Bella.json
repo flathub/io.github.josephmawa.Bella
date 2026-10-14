@@ -1,7 +1,7 @@
 {
   "app-id": "io.github.josephmawa.Bella",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "50",
+  "runtime-version": "51",
   "sdk": "org.gnome.Sdk",
   "command": "io.github.josephmawa.Bella",
   "finish-args": [
@@ -28,8 +28,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/flatpak/libportal/releases/download/0.10.0/libportal-0.10.0.tar.xz",
-          "sha256": "1c74a3f7becbd4ff745d7f565afd06e97e50eb080a0e268cb14bb55289a745bf"
+          "url": "https://github.com/flatpak/libportal/releases/download/0.11.0/libportal-0.11.0.tar.xz",
+          "sha256": "abb9e452a1c372133bd3eb8f0bb30d07b2d0a8fb02001c4155cf287555db4040"
         }
       ]
     },
@@ -41,8 +41,8 @@
         {
           "type": "git",
           "url": "https://github.com/josephmawa/Bella",
-          "tag": "v0.1.12",
-          "commit": "0195b26c0a83106a05065c7b58f23663757c856f"
+          "tag": "v0.1.13",
+          "commit": "fe764781089f00dfc0065c22c90ed3a7c985b685"
         }
       ]
     }
